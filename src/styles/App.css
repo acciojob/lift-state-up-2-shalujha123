@@ -1,1 +1,20 @@
 
+.parent{
+    display: flex;
+    flex-direction: column;
+    background-color: green;
+    height:  300px;
+    width: 500px;
+    margin: 20px;
+    padding: 20px;;
+}
+
+.child{
+    display: flex;
+    flex-direction: column;
+    background-color: brown;
+    /* height: 100px; */
+    /* width: 300px; */
+    padding: 20px;
+    margin: 20px;;
+}
